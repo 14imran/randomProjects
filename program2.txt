@@ -90,6 +90,9 @@ print("Prime numbers between", lower, "and", upper, "are:")rint('Hello, world!')
                breakt('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!'rint('Hello, world!')rint('Hello, world!'))rint('ld!')rint('Hello, world!')o, world!')oH if num > 1:
        for i in range(2, num):
            if (num % i) == 0:
+               break if num > 1:
+       for i in range(2, num):
+           if (num % i) == 0:
                break
 
 for num in range(lower, upper + 1): if num > 1:
