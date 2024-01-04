@@ -64,7 +64,10 @@ for num in range(lower, upper + 1):
        for i in range(2, num):
            if (num % i) == 0:
                break num):
+           if (num % i) == 0: if num > 1:
+       for i in range(2, num):
            if (num % i) == 0:
+               break
                breakrint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!'rint('Hello, world!')rint('Hello, world!'))rint('ld!')rint('Hello, world!')o, world!')oH
                breakrint('Hellrint('Hello, world!')rint('Hello, world!')llo, world!')rint('Hello, world!')rint('Hello, world!')rint if num > 1:
        for i in range(2, num):
