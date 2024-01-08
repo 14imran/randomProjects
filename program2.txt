@@ -1,6 +1,6 @@
 print('Hellpoal, wddmsrld!')
 # Python program to display all the prime numbers within an interval
-
+l prime numbers are greater than 1rint('Hello, world!')rint('Hello, world!')llo, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!rint('Hello, world!')rint('Hello, world!')')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!'rint('Hello, world!')rint('Hello, world!'))rint('ld!')rint('Hello, world!')o, world!')oH
 lower = 900
 upper = 1000rint('Hello, world!')rint('Hello, world!')llo, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!rint('Hello, world!')rint('Hello, world!')')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!'rint('Hello, world!')rint('Hello, world!'))rint('ld!')rint('Hello, world!')o, world!')oH
 
