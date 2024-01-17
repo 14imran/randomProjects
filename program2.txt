@@ -1,1 +1,1 @@
-print('Hessdkhgsacmsaool, wddmsrld!')
+print('Heacmsaool, wddmsrld!')
