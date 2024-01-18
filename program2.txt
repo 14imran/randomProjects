@@ -1,1 +1,1 @@
-print('Heacmsaool, wddmsrld!')
+print('Heal, wddmsrld!')
