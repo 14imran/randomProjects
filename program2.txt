@@ -47,7 +47,7 @@ for num in range(lower, upper + 1):
 lower = 900
 upper = 1000
 
-print("Prime numbers between""and", upper, "are:")
+print("Prime numbnd", upper, "are:")
 
 for num in range(lower, upper + 1):
    # all prime numbers are greater than 1
