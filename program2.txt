@@ -24,7 +24,7 @@ for num in range(lower, upper + 1):
            if (num % i) == 0:
                break
        else:
-           print(num)# Python program to displacmksdsy all the prime numbers withjcksjcsdkjdjskin an interval
+           print(num)# Python program to displaccsdjlsdlksmksdsy all the prime numbers withjcksjcsdkjdjskin an interval
 
 lower = 900
 upper = 1000
