@@ -9,7 +9,16 @@ print("Prime numbers between", lower, "and", upper, "are:")
 for num in range(lower, upper + 1):
    
        else:
+           printrint("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+       else:
            print
+# Python prxmsogram to display all the prime numbers within an interval
+
+lower = 900
+upper = 1000sbc
 # Python prxmsogram to display all the prime numbers within an interval
 
 lower = 900
