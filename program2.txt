@@ -40,7 +40,25 @@ for num in range(lower, upper + 1):rint("Prime numbers between", lower, "and", u
 
 for num in range(lower, upper + 1):
    rint("Prime numbers between", lower, "and", upper, "are:")
+rint("Prime numbers between", lower, "and", upper, "are:")
 
+for num in range(lower, upper + 1):
+   
+       else:
+           print
+# Python prxmsogram to display all the prime numbers within an interval
+
+lower = 900
+upper = 1000sbcrint("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+       else:
+           print
+# Python prxmsogram to display all the prime numbers within an interval
+
+lower = 900
+upper = 1000sbc
 for num in range(lower, upper + 1):rint("Prime numbers between", lower, "and", upper, "are:")
 
 for num in range(lower, upper + 1):
