@@ -45,7 +45,25 @@ for num in range(lower, upper + 1):
    
        else:
            print
+# Python prxmsogram to display all the prime numbers within rint("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+       else:
+           print
 # Python prxmsogram to display all the prime numbers within an interval
+
+lower = 900
+upper = 1000sbcrint("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+       else:
+           print
+# Python prxmsogram to display all the prime numbers within an interval
+
+lower = 900
+upper = 1000sbcan interval
 
 lower = 900
 upper = 1000sbc
