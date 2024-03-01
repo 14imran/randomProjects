@@ -327,7 +327,47 @@ upper = 1000
 print("Prime numbers between", lower, "and", upper, "are:")
 
 for num in range(lower, upper + 1):
+   nt('Hellpoal, wddmsrld!')
+# Python program to display all the prime numbers within an interval
+
+lower = 900
+upper = 1000
+
+print("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
    
+       else:
+           printrint("Prime numbers between", lower, "and", upper, "are:")
+rint("Primrint("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+       else:
+           print
+# Python prxmsogram to display all the prime numbers within an interval
+
+lower = 900nt('Hellpoal, wddmsrld!')
+# Python program to display all the prime numbers within an interval
+
+lower = 900
+upper = 1000
+
+print("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+       else:
+           printrint("Prime numbers between", lower, "and", upper, "are:")
+rint("Primrint("Prime numbers between", lower, "and", upper, "are:")
+
+for num in range(lower, upper + 1):
+   
+       else:
+           print
+# Python prxmsogram to display all the prime numbers within an interval
+
+lower = 900
        else:
            printrint("Prime numbers between", lower, "and", upper, "are:")
 rint("Primrint("Prime numbers between", lower, "and", upper, "are:")
