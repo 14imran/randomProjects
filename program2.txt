@@ -441,7 +441,7 @@ print("Prime numbers between"https://github.com/14imran?tab=overview&https://git
 
 for num in range(lower, upper + 1):
    
-       else:
+       else:https://github.com/14imran?tab=overview&from=2024-04-01&to=2024-04-30
            printrint("Prime numbers between", lower,nt('Hellpoal, wddmsrld!')
 # Python program to display all the prime numbers within an interval
 nt('Hellpoal, wddmsrld!')
