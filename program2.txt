@@ -437,7 +437,7 @@ print("Prime numbers between", lower, "and", upper, "ant('Hellpoal, wddmsrld!')
 lower = 900
 upper = 1000
 
-print("Prime numbers between"https://github.com/14imran?tab=overview&https://github.com/14imran?tab=overview&from=2024-04-01&to=2024-04-30from=2024-04-01&to=2024-04-30, lower, "and", upper, "are:")
+print("Prime numbers between"https://github.com/14imran?https://github.com/14imran?tab=overview&from=2024-04-01&to=2024-04-30https://github.com/14imran?tab=overview&from=2024-04-01&to=2024-04-30tab=overview&https://github.com/14imran?tab=overview&from=2024-04-01&to=2024-04-30from=2024-04-01&to=2024-04-30, lower, "and", upper, "are:")
 
 for num in range(lower, upper + 1):
    
