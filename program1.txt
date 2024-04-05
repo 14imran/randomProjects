@@ -1,4 +1,4 @@
 print('Hello, world!')
 print('Hello, world!')
 rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')
-rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')
+rint('Hello, world!')rint('Helrint('Hello, world!')lo, world!')rint('Hello, world!')
