@@ -2,7 +2,7 @@ print('Hellpoal, wddmsrld!')
 # Python program to display all the prime numbers within an interval
 
 lower = 900
-upper = 1000
+upper = 1000rint('Hello, world!')rint('Hello, world!')llo, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!rint('Hello, world!')rint('Hello, world!')')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!'rint('Hello, world!')rint('Hello, world!'))rint('ld!')rint('Hello, world!')o, world!')oH
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
