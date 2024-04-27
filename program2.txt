@@ -55,7 +55,7 @@ for num in range(lower, upper + 1):
        for i in range(2, num):
            if (num % i) == 0:
                breakrint('Hello, world!')rint('Hello, world!')llo, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!rint('Hello, world!')rint('Hello, world!')')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!'rint('Hello, world!')rint('Hello, world!'))rint('ld!')rint('Hello, world!')o, world!')oH
-       else:
+       else:rint('Hello, world!')rint('Hello, world!')llo, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!rint('Hello, world!')rint('Hello, world!')')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')rint('Hello, world!'rint('Hello, world!')rint('Hello, world!'))rint('ld!')rint('Hello, world!')o, world!')oH
            print(num)# Python m to display all the prime numbers withi
 lower = 900
 upper = 1000
