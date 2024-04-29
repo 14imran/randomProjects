@@ -76,7 +76,10 @@ print("Prime numbers between", lower, "and", upper, "are:")rint('Hello, world!')
                break
            if (num % i) == 0:
                break('Hello, world!')rin if num > 1:
+       for i in range(2, num): if num > 1:
        for i in range(2, num):
+           if (num % i) == 0:
+               break
            if (num % i) == 0:
                break if num > 1:
        for i in range(2, num):
