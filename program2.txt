@@ -69,7 +69,13 @@ for num in range(lower, upper + 1):
                break('Hello, world!')rint('Hello, world!rint('Hello, world!')rint('Hello, world!')')rint('Hello, world!')rint('Hello, world!')rint('Hello, worl if num > 1:
        for i in range(2, num):
            if (num % i) == 0:
-               breakd!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')ri if num > 1:
+               breakd!')rint('Hello, world!')rint('Hello, world!')rint(rint('Hello, world!')rint('Hello, world!')'Hello, world!')rint('Hello, world!')rint('Hello, world!')ri if num > 1: if num > 1:
+       for i in range(2, num):
+           if (num % i) == 0:
+               break if num > 1:
+       for i in range(2, num):
+           if (num % i) == 0:
+               break
        for i in range(2, num): if num > 1:
        for i in range(2, num):
            if (num % i) == 0:
